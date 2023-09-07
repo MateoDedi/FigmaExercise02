@@ -100,7 +100,7 @@ img {
     font-size: 36px;
 }
 
-a {
+.button {
     font-family: Noto Sans Symbols;
     text-transform: uppercase;
     text-decoration: none;
